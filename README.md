@@ -24,6 +24,12 @@ The menu looks like this:
 
 ![Screenshot](https://github.com/joewalnes/jquery-simple-context-menu/raw/master/demo/screenshot.png)
 
+Modifications to the original context menu
+------------------------------------------
+
+* Upon right click of the "effect" area of the menu, the menu does not disappear, but appears again at the right clicking coordinate. This similar to e.g. the usual context menus in Windows.
+* Animation is added for showing, and disappearing.
+
 
 Installation
 ------------
